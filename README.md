@@ -3,3 +3,5 @@
 **Integrantes:**
 - Ana Laura Tschen 221645
 - Cindy Gualim 21226
+- María José Girón Isidro 23559
+- Leonardo Dufrey Mejía Mejía 23648
