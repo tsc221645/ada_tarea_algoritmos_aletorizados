@@ -2,4 +2,4 @@
 ---
 **Integrantes:**
 - Ana Laura Tschen 221645
-- Cindy Gualim
+- Cindy Gualim 21226
